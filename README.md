@@ -8,4 +8,4 @@
 + файловая структура cоздана по БЭМ (Nested) 
 + CSS Media Queries
 
-[Ссылка](https://shulepovalidiya.github.io/russian-travel/) на проект на GitHub Pages.
+[Ссылка на проект на GitHub Pages.](https://shulepovalidiya.github.io/russian-travel/)
